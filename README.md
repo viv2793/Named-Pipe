@@ -17,7 +17,7 @@ Build -> Build Solution
 ```
 NamedPipe.exe
 ```
-- The above command will run namedpipe server and can receive message from any client.
+- The above command will run namedpipe server and the server can now receive messages from any named-pipe client.
 - Key 'q' on the keyboard has to be pressed to stop the server.
 
 Note - This is supports Windows platform only.
