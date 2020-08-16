@@ -21,6 +21,3 @@ NamedPipe.exe
 - Key 'q' on the keyboard has to be pressed to stop the server.
 
 Note - This is supports Windows platform only.
-
-## Credits - 
-- https://github.com/natefinch
