@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedPipe", "NamedPipe\NamedPipe.csproj", "{60112DEB-CC8A-4609-9F67-22140E790105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60112DEB-CC8A-4609-9F67-22140E790105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60112DEB-CC8A-4609-9F67-22140E790105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60112DEB-CC8A-4609-9F67-22140E790105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60112DEB-CC8A-4609-9F67-22140E790105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4FA5B96-9482-4680-841C-7E5F7617F2DD}
+	EndGlobalSection
+EndGlobal
